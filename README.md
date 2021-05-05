@@ -1,5 +1,7 @@
 # Budget-Calculator
+
 ALGORITHM
+
 	The program asks the user to give the choice input with 1 or 2.  
 	The program asks user to enter the Monthly Salary Budget.
 	The program substrates the savings from salary.
@@ -15,25 +17,5 @@ ALGORITHM
 	p_item=user must give priority
 	n_item=user must give items for needs
 	v_item=user must give value
-
-
-FLOW CHART	
-
-	
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
 
 
